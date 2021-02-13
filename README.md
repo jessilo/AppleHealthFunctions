@@ -1,5 +1,5 @@
 # AppleHealthFunctions
-Python functions to process Apple Health exports into BigQuery and dashboards.
+Python functions to process Apple Health exports into BigQuery and dashboards in Google Cloud (GCP).
 
 Background: The increasing usage of smart health devices has meant that the amount of personal health data created is rapidly expanding, presenting new challenges for researchers looking to use this data. 70 percent of clinical trials are projected to incorporate sensors by 2025. The usage of wearables devices in clinical research has increased exponentially every year since 2008, especially in recent large-scale COVID-19 studies.
 
