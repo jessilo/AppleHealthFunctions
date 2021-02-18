@@ -15,7 +15,7 @@ Solution: My solution is a GCP-based ETL tool that consolidates wearables data f
 
 Architecture: 
 
-![Architecture Diagram](https://github.com/jessilo/AppleHealthFunctions/blob/main/Architecture%20Diagram.png?raw=true)
+![Architecture Diagram](https://github.com/jessilo/AppleHealthFunctions/blob/main/Wearables%20Architecture%20Diagram.png)
 
 Project Scope: Apple Watch data from multiple users will be transformed using an automated pipeline to make data available for analysis in a variety of ways, including a dashboard view. All data can be updated through the upload new Apple Watch files.
 
